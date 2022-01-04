@@ -15,7 +15,16 @@ body{
 }
 .section-b{
     display:flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin:0;
 
+}
+.section-c{
+    display:flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .part-b{
     width:40%;
@@ -28,6 +37,16 @@ body{
     padding-left: 350px;
     margin:0px;
    
+}
+.part-c{
+    width:40%;
+    padding-left: 40px;
+    margin-top: 90px;
+}
+.part-c img{
+    width:80%;
+    padding-right: 350px;
+    margin:0px;
 }
 .hire-button{
     color:white;
