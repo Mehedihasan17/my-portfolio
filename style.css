@@ -1,3 +1,21 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.header{
+    font-size:50px;
+    margin-top: 10px;
+    width:100%;
+    text-align: center;
+}
+.orange{
+    color:orange
+}
+.part-b h3{
+    font-size: 30px;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 0, 255, 0.829) rgba(0, 255, 255, 0.863));
+    font-weight: 700;
+    padding:5px 10px;
+}
